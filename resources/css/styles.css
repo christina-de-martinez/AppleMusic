@@ -464,6 +464,14 @@ h5 {
   overflow: visible;
 }
 
+#email {
+	color: var(--color--pink);
+}
+
+#email:hover {
+	color: var(--typography--secondary);
+}
+
 /* MOBILE FRIENDLINESS */
 @media screen and (max-width: 1000px) {
   .metadata {
